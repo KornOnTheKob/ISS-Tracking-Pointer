@@ -91,9 +91,9 @@ int main()
     char longstr2[] = "2 25544  51.6452  88.4122 0001595  95.9665 324.8493 15.55497522959124";
     
     //ENTER SITE DETAILS HERE
-    siteLat = 30.25; //+North (Austin)
-    siteLon = -97.75; //+East (Austin)
-    siteAlt = 0.15; //km (Austin)
+    siteLat = 44.9212; //+North (minnetonka)
+    siteLon = 93.4687; //+East (minnetonka)
+    siteAlt = 0.271; //km (minnetonka)
     siteLatRad = siteLat * pi / 180.0;
     siteLonRad = siteLon * pi / 180.0;
     
